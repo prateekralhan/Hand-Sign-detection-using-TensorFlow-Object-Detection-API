@@ -1,1 +1,1 @@
-# Hand-Sign-detection-using-TensorFlow-Object-Detection-API
+# Hand Sign detection using TensorFlow Object Detection API
