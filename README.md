@@ -41,7 +41,10 @@ python -m ipykernel install --user --name=env
 <b>Step 7.</b> Begin training process by opening <a href="https://github.com/prateekralhan/Hand-Sign-detection-using-TensorFlow-Object-Detection-API/blob/main/Training%20%26%20Detection.ipynb">2. Training and Detection.ipynb</a>, this notebook will walk you through installing Tensorflow Object Detection, making detections, saving and exporting your model. 
 <br /><br/>
 <b>Step 8.</b> During this process the Notebook will install Tensorflow Object Detection. You should ideally receive a notification indicating that the API has installed successfully at Step 8 with the last line stating OK.  
-<img src="https://i.imgur.com/FSQFo16.png">
+<kbd>
+<img src="https://i.imgur.com/FSQFo16.png" data-canonical-src="https://i.imgur.com/FSQFo16.png"/> 
+</kbd>
+&nbsp;
 If not, resolve installation errors by referring to the <a href="https://github.com/prateekralhan/Hand-Sign-detection-using-TensorFlow-Object-Detection-API/blob/main/Error%20Guide.md">Error Guide.md</a> in this folder.
 <br /> <br/>
 <b>Step 9.</b> Once you get to step 6. Train the model, inside of the notebook, you may choose to train the model from within the notebook. I have noticed however that training inside of a separate terminal on a Windows machine you're able to display live loss metrics. 
