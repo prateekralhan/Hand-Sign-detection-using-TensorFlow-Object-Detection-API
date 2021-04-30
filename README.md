@@ -1,4 +1,4 @@
-# Real-time Hand Sign detection using TensorFlow Object Detection API
+# Real-time Hand Sign detection using TensorFlow Object Detection API 👍 👎 👌✌️👐
 An end-to-end implementation of training and leveraging our own custom object detection model using the tensorflow object detection API.
 
 <kbd>
