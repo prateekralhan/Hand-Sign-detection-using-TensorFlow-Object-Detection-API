@@ -60,3 +60,15 @@ Tensorboard will be accessible through your browser and you will be able to see 
 <img src="https://user-images.githubusercontent.com/29462447/116665999-1406d200-a9b8-11eb-8f2c-435ec1453f0b.png" data-canonical-src="https://user-images.githubusercontent.com/29462447/116665999-1406d200-a9b8-11eb-8f2c-435ec1453f0b.png"/> 
 </kbd>
 &nbsp;
+
+<kbd>
+<img src="https://user-images.githubusercontent.com/29462447/116666450-955e6480-a9b8-11eb-995b-6bedb1a4d8c5.png" data-canonical-src="https://user-images.githubusercontent.com/29462447/116666450-955e6480-a9b8-11eb-995b-6bedb1a4d8c5.png"/> 
+</kbd>
+&nbsp;
+
+<kbd>
+<img src="https://user-images.githubusercontent.com/29462447/116666446-94c5ce00-a9b8-11eb-9620-7c80a7b85781.png" data-canonical-src="https://user-images.githubusercontent.com/29462447/116666446-94c5ce00-a9b8-11eb-9620-7c80a7b85781.png"/> 
+</kbd>
+&nbsp;
+
+
