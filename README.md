@@ -29,8 +29,13 @@ pip install ipykernel
 python -m ipykernel install --user --name=env
 </pre>
 <br/>
-<b>Step 5.</b> Collect images using the Notebook <a href="https://github.com/prateekralhan/Hand-Sign-detection-using-TensorFlow-Object-Detection-API/blob/main/Image%20Collection.ipynb">1. Image Collection.ipynb</a> - ensure you change the kernel to the virtual environment as shown below
-<img src="https://i.imgur.com/8yac6Xl.png"> 
+<b>Step 5.</b> Collect images using the Notebook <a href="https://github.com/prateekralhan/Hand-Sign-detection-using-TensorFlow-Object-Detection-API/blob/main/Image%20Collection.ipynb">1. Image Collection.ipynb</a> - ensure you change the kernel to the virtual environment as shown below:
+
+<kbd>
+<img src="https://user-images.githubusercontent.com/29462447/116665184-10268000-a9b7-11eb-94d7-991321e850d3.png" data-canonical-src="https://user-images.githubusercontent.com/29462447/116665184-10268000-a9b7-11eb-94d7-991321e850d3.png"/> 
+</kbd>
+
+&nbsp;
 <br/>
 <b>Step 6.</b> Manually divide collected images into two folders train and test. So now all folders and annotations should be split between the two folders - train and test.<br/>
 <br/><br/>
