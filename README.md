@@ -88,6 +88,12 @@ Tensorboard will be accessible through your browser and you will be able to see 
 ![thankyou](https://user-images.githubusercontent.com/29462447/116669968-d6587800-a9bc-11eb-8532-7168656d4519.png)
 ![livelong](https://user-images.githubusercontent.com/29462447/116669992-dce6ef80-a9bc-11eb-8963-eca65a517887.png)
 
+<kbd>
+  <img src="https://user-images.githubusercontent.com/29462447/116673947-a069c280-a9c1-11eb-889a-499067877c8f.gif" data-canonical-src="https://user-images.githubusercontent.com/29462447/116673947-a069c280-a9c1-11eb-889a-499067877c8f.gif"/> 
+  </kbd>
+  &nbsp;
+
+
 
 
 
