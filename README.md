@@ -46,9 +46,8 @@ If not, resolve installation errors by referring to the <a href="https://github.
 <br /> <br/>
 <b>Step 9.</b> Once you get to step 6. Train the model, inside of the notebook, you may choose to train the model from within the notebook. I have noticed however that training inside of a separate terminal on a Windows machine you're able to display live loss metrics. 
 <kbd>
-<img src="https://user-images.githubusercontent.com/29462447/116665999-1406d200-a9b8-11eb-8f2c-435ec1453f0b.png" data-canonical-src="https://user-images.githubusercontent.com/29462447/116665999-1406d200-a9b8-11eb-8f2c-435ec1453f0b.png"/> 
+<img src="https://user-images.githubusercontent.com/29462447/116666186-4e706f00-a9b8-11eb-9c0f-a4b449ca2f35.png" data-canonical-src="https://user-images.githubusercontent.com/29462447/116666186-4e706f00-a9b8-11eb-9c0f-a4b449ca2f35.png"/> 
 </kbd>
-
 &nbsp;
 <br />
 <b>Step 10.</b> You can optionally evaluate your model inside of Tensorboard. Once the model has been trained and you have run the evaluation command under Step 7. Navigate to the evaluation folder for your trained model e.g. 
@@ -57,3 +56,7 @@ and open Tensorboard with the following command
 <pre>tensorboard --logdir=. </pre>
 Tensorboard will be accessible through your browser and you will be able to see metrics including mAP - mean Average Precision, and Recall.
 <br />
+<kbd>
+<img src="https://user-images.githubusercontent.com/29462447/116665999-1406d200-a9b8-11eb-8f2c-435ec1453f0b.png" data-canonical-src="https://user-images.githubusercontent.com/29462447/116665999-1406d200-a9b8-11eb-8f2c-435ec1453f0b.png"/> 
+</kbd>
+&nbsp;
