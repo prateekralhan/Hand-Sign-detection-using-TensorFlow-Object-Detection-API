@@ -9,11 +9,11 @@ An end-to-end implementation of training and leveraging our own custom object de
 ## Installation and Usage:
 ## Steps
 <br />
-<b>Step 1.</b> Clone this repository: https://github.com/nicknochnack/TFODCourse
+<b>Step 1.</b> Clone this repository: https://github.com/prateekralhan/Hand-Sign-detection-using-TensorFlow-Object-Detection-API.git
 <br/><br/>
 <b>Step 2.</b> Create a new virtual environment 
 <pre>
-python -m venv tfod
+python -m venv env
 </pre> 
 <br/>
 <b>Step 3.</b> Activate your virtual environment
@@ -26,7 +26,7 @@ source tfod/bin/activate # Linux
 <pre>
 python -m pip install --upgrade pip
 pip install ipykernel
-python -m ipykernel install --user --name=tfodj
+python -m ipykernel install --user --name=env
 </pre>
 <br/>
 <b>Step 5.</b> Collect images using the Notebook <a href="https://github.com/nicknochnack/TFODCourse/blob/main/1.%20Image%20Collection.ipynb">1. Image Collection.ipynb</a> - ensure you change the kernel to the virtual environment as shown below
