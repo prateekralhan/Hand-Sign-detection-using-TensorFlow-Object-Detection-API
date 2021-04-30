@@ -1,6 +1,6 @@
 # Real-time Hand Sign detection using TensorFlow Object Detection API 👍 👎 👌✌️👐
-An end-to-end implementation of training and leveraging our own custom object detection model using the tensorflow object detection API.
-
+![tensorflow-logo](https://user-images.githubusercontent.com/29462447/116670987-094f3b80-a9be-11eb-8ec8-f676ef5b94e5.png)
+### An end-to-end implementation of training and leveraging our own custom object detection model using the tensorflow object detection API.
 <kbd>
 <img src="https://user-images.githubusercontent.com/29462447/116663374-a1482780-a9b4-11eb-903e-aa3a22680d4d.jpg" data-canonical-src="https://user-images.githubusercontent.com/29462447/116663374-a1482780-a9b4-11eb-903e-aa3a22680d4d.jpg"/> 
 </kbd>
