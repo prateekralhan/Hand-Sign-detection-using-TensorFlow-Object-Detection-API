@@ -29,12 +29,12 @@ pip install ipykernel
 python -m ipykernel install --user --name=env
 </pre>
 <br/>
-<b>Step 5.</b> Collect images using the Notebook <a href="https://github.com/nicknochnack/TFODCourse/blob/main/1.%20Image%20Collection.ipynb">1. Image Collection.ipynb</a> - ensure you change the kernel to the virtual environment as shown below
+<b>Step 5.</b> Collect images using the Notebook <a href="https://github.com/prateekralhan/Hand-Sign-detection-using-TensorFlow-Object-Detection-API/blob/main/Image%20Collection.ipynb">1. Image Collection.ipynb</a> - ensure you change the kernel to the virtual environment as shown below
 <img src="https://i.imgur.com/8yac6Xl.png"> 
 <br/>
 <b>Step 6.</b> Manually divide collected images into two folders train and test. So now all folders and annotations should be split between the two folders - train and test.<br/>
 <br/><br/>
-<b>Step 7.</b> Begin training process by opening <a href="https://github.com/nicknochnack/TFODCourse/blob/main/2.%20Training%20and%20Detection.ipynb">2. Training and Detection.ipynb</a>, this notebook will walk you through installing Tensorflow Object Detection, making detections, saving and exporting your model. 
+<b>Step 7.</b> Begin training process by opening <a href="https://github.com/prateekralhan/Hand-Sign-detection-using-TensorFlow-Object-Detection-API/blob/main/Training%20%26%20Detection.ipynb">2. Training and Detection.ipynb</a>, this notebook will walk you through installing Tensorflow Object Detection, making detections, saving and exporting your model. 
 <br /><br/>
 <b>Step 8.</b> During this process the Notebook will install Tensorflow Object Detection. You should ideally receive a notification indicating that the API has installed successfully at Step 8 with the last line stating OK.  
 <img src="https://i.imgur.com/FSQFo16.png">
