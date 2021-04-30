@@ -78,4 +78,12 @@ Tensorboard will be accessible through your browser and you will be able to see 
   &nbsp;
 </p>
 
+<b>Results</b>
+
+![thumbsup](https://user-images.githubusercontent.com/29462447/116669982-d9ebff00-a9bc-11eb-9191-edb855372941.png)
+![thumbsdown](https://user-images.githubusercontent.com/29462447/116669975-d8bad200-a9bc-11eb-88d1-733054554f93.png)
+![thankyou](https://user-images.githubusercontent.com/29462447/116669968-d6587800-a9bc-11eb-8532-7168656d4519.png)
+![livelong](https://user-images.githubusercontent.com/29462447/116669992-dce6ef80-a9bc-11eb-8963-eca65a517887.png)
+
+
 
