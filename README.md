@@ -1,4 +1,5 @@
-# Real-time Hand Sign detection using TensorFlow Object Detection API 👍 👎 👌✌️👐 [![Project Status: Active](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
+# Real-time Hand Sign detection using TensorFlow Object Detection API 👍 👎 👌✌️👐 [![Project Status: Active](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active) [![](https://img.shields.io/badge/Prateek-Ralhan-brightgreen.svg?colorB=ff0000)](https://prateekralhan.github.io/)
+
 ![tensorflow-logo](https://user-images.githubusercontent.com/29462447/116670987-094f3b80-a9be-11eb-8ec8-f676ef5b94e5.png)
 ### An end-to-end implementation of training and leveraging our own custom object detection model using the tensorflow object detection API.
 <kbd>
